@@ -1,0 +1,9 @@
+{
+  "short_name": "Credit Card Predictor",
+  "name": "Credit Card Approval Prediction System",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
