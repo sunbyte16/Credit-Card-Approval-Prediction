@@ -282,5 +282,5 @@ MIT License - see LICENSE for details.
 ---
 
 <div align="center">
-  <p>Made with ❤️ by 𝕊𝕦𝕟𝕚𝕝 𝕊𝕙𝕒𝕣𝕞𝕒</p>
+  <p>Crafted By ❤️ 𝕊𝕦𝕟𝕚𝕝 𝕊𝕙𝕒𝕣𝕞𝕒</p>
 </div>
